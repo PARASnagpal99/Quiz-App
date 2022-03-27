@@ -87,9 +87,9 @@ const questions = [
   {
     question: 'Who is the best YouTuber?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Kunal Kushwaha', correct: true },
-      { text: 'Kartik Arora', correct: true },
+      { text: 'web dev simplified', correct: true },
+      { text: 'Traversy media', correct: true },
+      { text: 'striver', correct: true },
       { text: 'Luv', correct: true }
     ]
   },
